@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="1.15" name="Brent&apos;s Battlescribe Repository" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Beyond_the_Gates_of_Antares.gstz" dataType="gamesystem" dataId="c339-677a-60db-4060" dataName="Beyond the Gates of Antares" dataBattleScribeVersion="1.15" dataRevision="7"/>
+    <dataIndexEntry filePath="Ghar.catz" dataType="catalogue" dataId="0f2e-f338-5620-a215" dataName="Ghar" dataBattleScribeVersion="1.15" dataRevision="10"/>
+    <dataIndexEntry filePath="Algoryn.catz" dataType="catalogue" dataId="4868-1e60-4bba-a4b2" dataName="Algoryn" dataBattleScribeVersion="1.15" dataRevision="2"/>
+    <dataIndexEntry filePath="BrentsConcord.catz" dataType="catalogue" dataId="162d-cc8a-d6e7-6973" dataName="Concord" dataBattleScribeVersion="1.15" dataRevision="11"/>
+    <dataIndexEntry filePath="Boromites.catz" dataType="catalogue" dataId="18ef-359c-e44c-e44a" dataName="Boromites" dataBattleScribeVersion="1.15" dataRevision="3"/>
+    <dataIndexEntry filePath="Freeborn.catz" dataType="catalogue" dataId="64d6-1cd3-6226-4554" dataName="Freeborn" dataBattleScribeVersion="1.15" dataRevision="3"/>
+  </dataIndexEntries>
+</dataIndex>
